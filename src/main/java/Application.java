@@ -8,7 +8,5 @@ public class Application {
 
         String name = in.nextLine();
         System.out.printf("%s\n", name);
-
-        // ur mom
     }
 }
